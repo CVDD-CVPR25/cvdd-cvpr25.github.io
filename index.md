@@ -25,9 +25,9 @@ Two tracks are available: featuring papers for workshop proceedings and posters 
 
 The papers must follow the CVPR paper template. 
 
-### Topics
+The submission must go through: TBD
 
-Topics:
+### Topics
 
 * Spatial Transcriptomics for Drug Discovery
     * Computational methods for analyzing spatially resolved gene expression data.
