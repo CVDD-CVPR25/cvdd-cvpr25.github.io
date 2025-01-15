@@ -27,3 +27,9 @@ Registration deadline: February 15 '25 07:59 AM UTC
 Submission deadline: March 15 '25 07:59 AM UTC
 
 Decisions to participants: May 1 '25 07:59 AM UT
+
+## Challenge Organizers: 
+
+Adriana Borowa, Ana Sanchez-Fernandez
+
+[back](./)

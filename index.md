@@ -6,6 +6,13 @@ layout: default
 
 This page is for CVPR 2025 workshops on Computer Vision for Drug Discovery: Where Are We and What is Beyond?
 
+## Go to:
+
+[Call for papers] (./call.html)
+[Speakers] (./speakers.html)
+[Challenge] (./challenge.html)
+[Organizers] (organizers.html)
+
 ## Short info about the workshops
 
 The workshop aims to bridge the gap between computer vision, artificial intelligence, and the life sciences, with a focus on transformative advancements in drug discovery. By integrating innovative imaging modalities—such as Spatial Transcriptomics, Cell Painting, and Optical Pooled Screening—with state-of-the-art computer vision techniques, this workshop seeks to foster collaboration between experts in biomedical science, AI, and computer vision.
@@ -91,27 +98,6 @@ Workshop Date: June 12
 More info can be found at: 
 [Challenge](./challenge.html)
 
-### Dataset: 
-
-Competition will use the 2020_11_04_CPJUMP1 dataset available publicly, see description https://github.com/jump-cellpainting/2024_Chandrasekaran_NatureMethods. Dataset contains images generated using chemical and genetic perturbation and 2 cell lines: U2OS and A549 in multiple replicates. Images and corresponding CellProfiler features are available.
-
-### Task: 
-
-Develop a method for transfer of information between cell lines using either CellProfiler features or raw images. Provide an image representation that is cell type-invariant.
-
-### Evaluation: 
-
-Generated representation will be evaluated in terms of compound matching task on the evaluation set using a MLP classifier and ChEMBL labels in 5 fold cross-validation. Train/test split will be undisclosed. Participants will also be asked to send a paper describing the methodology (up to 4 pages without citations).
-
-### Timeline:
-
-Start (call for participation): January 20 '25 07:59 AM UTC
-
-Registration deadline: February 15 '25 07:59 AM UTC
-
-Submission deadline: March 15 '25 07:59 AM UTC
-
-Decisions to participants: May 1 '25 07:59 AM UT
 
 ## Workshop schedule:
 
