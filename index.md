@@ -8,17 +8,17 @@ This page is for CVPR 2025 workshops on Computer Vision for Drug Discovery: Wher
 
 ## Short info about the workshops
 
-This workshop theme extends far beyond the traditional scope of CVPR, bridging the gap between computer vision, artificial intelligence, and the life sciences, particularly in the critical field of drug discovery. By integrating advanced imaging modalities like Spatial Transcriptomics, Cell Painting, and Optical Pooled Screening with cutting-edge computer vision techniques, the workshop fosters interdisciplinary collaboration between researchers in biomedical science, AI, and computer vision.
+The workshop aims to bridge the gap between computer vision, artificial intelligence, and the life sciences, with a focus on transformative advancements in drug discovery. By integrating innovative imaging modalities—such as Spatial Transcriptomics, Cell Painting, and Optical Pooled Screening—with state-of-the-art computer vision techniques, this workshop seeks to foster collaboration between experts in biomedical science, AI, and computer vision.
 
-The broader impact of this effort lies in its potential to revolutionize drug discovery processes, enabling faster, more precise identification of therapeutic targets and accelerating the development of effective treatments for diseases. This is especially relevant in the context of modern challenges such as cancer, neurodegenerative disorders, and pandemics, where AI-driven analysis of high-dimensional biological data can dramatically enhance our understanding of disease mechanisms and therapeutic responses.
+The workshop highlights the potential for revolutionizing drug discovery processes, driving faster and more accurate identification of therapeutic targets, and expediting the development of treatments for complex diseases. Addressing pressing challenges like cancer, neurodegenerative disorders, and pandemics, the focus lies on leveraging AI to analyze high-dimensional biological data, enhancing our understanding of disease mechanisms and responses to therapies.
 
-For the CVPR audience, this represents a shift from traditional image processing and vision tasks (e.g., object detection, facial recognition) towards applications that directly impact public health and global well-being. The workshop will allow computer vision experts to apply their skills in high-stakes, socially impactful domains like healthcare and pharmaceutical research. It will also challenge researchers to adapt their techniques to handle the unique complexities of biological imaging, such as multi-modal data fusion, explainability in biomedical contexts, and interpreting noisy or sparse biological datasets.
+For the CVPR community, this represents an exciting opportunity to expand beyond traditional image processing tasks into applications with tangible societal impact. By applying computer vision expertise to critical healthcare and pharmaceutical challenges, participants will engage with tasks like multi-modal data fusion, enhancing explainability in biomedical applications, and addressing the unique complexities of biological imaging, such as sparse or noisy datasets.
 
-In summary, the workshop aligns with CVPR's growing emphasis on AI for social good while offering a profound opportunity for computer vision researchers to contribute to transformative advances in medical science, which have the potential to impact millions of lives worldwide.
+This workshop is aligned with CVPR's growing emphasis on "AI for social good," offering computer vision researchers a platform to contribute to advances in medical science that could improve the lives of millions. It is a call to action for interdisciplinary innovation, uniting diverse expertise to tackle some of the most critical challenges in global health.
 
 ## List of invited speakers:
 
-TBD
+[List of speakers](./speakers.html)
 
 ## Call for papers:
 Two tracks are available: featuring papers for workshop proceedings and posters from recent publications in top conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, and AAAI, as well as prominent journals such as Nature, Science, and Nature Methods.
@@ -88,6 +88,9 @@ Workshop Date: June 12
 
 ## Challenge: 
 
+More info can be found at: 
+[Challenge](./challenge.html)
+
 ### Dataset: 
 
 Competition will use the 2020_11_04_CPJUMP1 dataset available publicly, see description https://github.com/jump-cellpainting/2024_Chandrasekaran_NatureMethods. Dataset contains images generated using chemical and genetic perturbation and 2 cell lines: U2OS and A549 in multiple replicates. Images and corresponding CellProfiler features are available.
@@ -123,4 +126,3 @@ Dawid Rymarczyk, Ilknur Icke, Chao-hui Huang, Anne Carpenter
 ### Challenge comitee:
 
 Adriana Borowa, Ana Sanchez-Fernandez
-
