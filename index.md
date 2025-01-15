@@ -110,8 +110,8 @@ TBD
 
 ### Workshop comitee:
 
-![Dawid Rymarczyk](./Ilknur.png|width=100)
-![Ilknur Icke](./Ilknur.png|width=100)
+![Dawid Rymarczyk](./Ilknur.png)
+![Ilknur Icke](./Ilknur.png)
 
 
 Dawid Rymarczyk, Ilknur Icke, Chao-hui Huang, Anne Carpenter
