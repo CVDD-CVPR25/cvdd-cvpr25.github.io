@@ -110,7 +110,7 @@ TBD
 
 ### Workshop comitee:
 
-![Dawid Rymarczyk](./Dawid) 
+![Dawid Rymarczyk](./Dawid.png) 
 ![Ilknur Icke](./Ilknur.png)
 ![Chao-hui Huang](./Chao.png)
 ![Gayathri Mohan](./Gaya.png)
