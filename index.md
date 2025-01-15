@@ -2,12 +2,10 @@
 layout: default
 ---
 
-[CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/Dates).
+
+| [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/Dates) | [Call for papers](./call.html) | [Speakers](./speakers.html) | [Challenge](./challenge.html) | [Organizers](organizers.html) |
 
 This page is for CVPR 2025 workshops on Computer Vision for Drug Discovery: Where Are We and What is Beyond?
-
-| [Call for papers](./call.html) | [Speakers](./speakers.html) | [Challenge](./challenge.html | [Organizers](organizers.html)|
-|:---:|:---:|:---:|:---:|
 
 ## Introduction
 
