@@ -113,13 +113,17 @@ TBD
 | ![Dawid](./Dawid.png) | **Dawid Rymarczyk <br> Ardigen SA <br> Jagiellonian University** | 
 |:-----------------:|:-----------------:|
 | ![Ilknur Icke](./Ilknur.png) | **Ilknur Icke <br> Bayer** | 
-| ![Chao-hui Huang](./Chao.png) | **Chao-hui Huang** <br> *Pfizer* | 
-| ![Gayathri Mohan](./Gaya.png) | **Gayathri Mohan** <br> *AstraZeneca* | 
-| ![Anne Carpenter](./Anne.png) | **Anne Carpenter** <br> *Broad Institute* <br> *SyzOnc* |
+| ![Chao-hui Huang](./Chao.png) | **Chao-hui Huang <br> Pfizer** | 
+| ![Gayathri Mohan](./Gaya.png) | **Gayathri Mohan <br> AstraZeneca** | 
+| ![Anne Carpenter](./Anne.png) | **Anne Carpenter <br> Broad Institute <br> SyzOnc** |
 
 
 ### Challenge comitee:
 
-![Adriana Borowa](./Ada.png)
+| ![Adriana Borowa](./Ada.png) | **Adriana Borowa <br> Ardigen SA ** | 
+|:-----------------:|:-----------------:|
+| ![Ana Sanchez-Fernandez](./Ana) | **Ana Sanchez-Fernandez <br> Johannes Kepler University Linz <br> Janssen Pharmaceutica** | 
+
+!
 ![Ana Sanchez-Fernandez](./Ana.png)
  
