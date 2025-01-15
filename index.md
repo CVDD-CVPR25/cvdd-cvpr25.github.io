@@ -8,10 +8,13 @@ This page is for CVPR 2025 workshops on Computer Vision for Drug Discovery: Wher
 
 ## Go to:
 
-[Call for papers] (./call.html)
-[Speakers] (./speakers.html)
-[Challenge] (./challenge.html)
-[Organizers] (organizers.html)
+[Call for papers](./call.html)
+
+[Speakers](./speakers.html)
+
+[Challenge](./challenge.html)
+
+[Organizers](organizers.html)
 
 ## Short info about the workshops
 
