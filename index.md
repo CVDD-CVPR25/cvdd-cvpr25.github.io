@@ -120,7 +120,7 @@ TBD
 
 ### Challenge comitee:
 
-| ![Adriana Borowa](./Ada.png) | **Adriana Borowa <br> Ardigen SA ** | 
+| ![Adriana Borowa](./Ada.png) | **Adriana Borowa <br> Ardigen SA** | 
 |:-----------------:|:-----------------:|
 | ![Ana Sanchez-Fernandez](./Ana.png) | **Ana Sanchez-Fernandez <br> Johannes Kepler University Linz <br> Janssen Pharmaceutica** | 
 
