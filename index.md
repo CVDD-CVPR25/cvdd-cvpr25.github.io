@@ -110,12 +110,14 @@ TBD
 
 ### Workshop comitee:
 
-![Dawid Rymarczyk](./Ilknur.png)
+![Dawid Rymarczyk](./Dawid) 
 ![Ilknur Icke](./Ilknur.png)
-
-
-Dawid Rymarczyk, Ilknur Icke, Chao-hui Huang, Anne Carpenter
+![Chao-hui Huang](./Chao.png)
+![Gayathri Mohan](./Gaya.png)
+![Anne Carpenter](./Anne.png)
 
 ### Challenge comitee:
 
-Adriana Borowa, Ana Sanchez-Fernandez
+![Adriana Borowa](./Ada.png)
+![Ana Sanchez-Fernandez](./Ana.png)
+ 
