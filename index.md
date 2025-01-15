@@ -6,17 +6,10 @@ layout: default
 
 This page is for CVPR 2025 workshops on Computer Vision for Drug Discovery: Where Are We and What is Beyond?
 
-## Go to:
+| [Call for papers](./call.html) | [Speakers](./speakers.html) | [Challenge](./challenge.html | [Organizers](organizers.html)|
+|:---:|:---:|:---:|:---:|
 
-[Call for papers](./call.html)
-
-[Speakers](./speakers.html)
-
-[Challenge](./challenge.html)
-
-[Organizers](organizers.html)
-
-## Short info about the workshops
+## Introduction
 
 The workshop aims to bridge the gap between computer vision, artificial intelligence, and the life sciences, with a focus on transformative advancements in drug discovery. By integrating innovative imaging modalities—such as Spatial Transcriptomics, Cell Painting, and Optical Pooled Screening—with state-of-the-art computer vision techniques, this workshop seeks to foster collaboration between experts in biomedical science, AI, and computer vision.
 
