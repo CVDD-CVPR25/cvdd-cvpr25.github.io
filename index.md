@@ -110,7 +110,7 @@ TBD
 
 ### Workshop comitee:
 
-| ![Dawid](./Dawid.png) | ![Ilknur Icke](./Ilknur.png) | ![Chao-hui Huang](./Chao.png) | ![Gayathri Mohan](./Gaya.png) | ![Anne Carpenter](./Anne.png) |
+| ![Dawid](./Dawid.png =100x100) | ![Ilknur Icke](./Ilknur.png =100x100) | ![Chao-hui Huang](./Chao.png) | ![Gayathri Mohan](./Gaya.png) | ![Anne Carpenter](./Anne.png) |
 |:-----------------:|:-----------------:|:-----------------:|:-----------------:|:-----------------:|
 | **Dawid Rymarczyk** <br> Ardigen SA <br> Jagiellonian University | **Ilknur   Icke** <br> Bayer | **Chao-hui  Huang** <br> Pfizer | **Gayathri  Mohan** <br> AstraZeneca | **Anne  Carpenter** <br> Broad Institute <br> SyzOnc |
 
