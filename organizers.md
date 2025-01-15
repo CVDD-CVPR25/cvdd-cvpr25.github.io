@@ -1,125 +1,16 @@
 ---
-title: Speakers
+title: Organizers
 layout: default
-filename: speakers
+description: Organizers of CVDD
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+| ![Dawid](./Dawid.png) | **Dawid Rymarczyk <br> Ardigen SA <br> Jagiellonian University** | Dawid's research focuses on applying computer vision to drug design, particularly in morphological and phenotypical profiling of molecular activity and patient data. He is also deeply engaged in explainable artificial intelligence (xAI), with a specific interest in fine-grained classification. Dawid holds a PhD in computer science from Jagiellonian University, where he is currently a post-doctoral researcher. He serves as the Director of Data Science and AI at Ardigen.
+Dawid has played a key role in organizing the xAI 2.0 conference special track, the xAI 3.0 workshops at ECAI 2023, and various internal research group meetings, including the Ardigen Summit. He regularly reviews for leading conferences such as CVPR, ECCV, ICCV, NeurIPS, ICLR, AAAI, and AISTATS. His research includes work on morphological profiling of cell images, histopathology slide analysis, and developing self-explainable methods for fine-grained classification. Dawid presented multiple works at conferences such as BiotechX, Discovery Europe, and IBD Summit, where he showed applications of computer vision techniques to life sciences. |
 
-[Link to another page](./another-page.html).
+|:-----------------:|:-----------------:|:-----------------:|
+| ![Ilknur Icke](./Ilknur.png) | **Ilknur Icke <br> Bayer** | Ilknur is interested in the study of complex systems, at the intersection of sensing and computational modeling for better understanding and interventions. Her prior experience includes active learning based design of real-time fMRI experiments and computational modeling of such experiments to study human brain. Ilknur has been in the pharmaceuticals R&D domain for almost a decade working in highly interdisciplinary teams developing capabilities in such areas as modeling & simulation tools for PK/PD analysis, molecular imaging applications for neuroscience and oncology, as well as analysis of multi-omics data and generative modeling for de-novo compound design. Ilknur also has been serving as a reviewer for the MICCAI conference|
+| ![Chao-hui Huang](./Chao.png) | **Chao-hui Huang <br> Pfizer** | Chao-Hui is a Director at Pfizer Oncology Research Division, responsible for enabling artificial intelligence and digital image analysis technologies for supporting computational biological research. His experiences include spatial multi-omics, digital pathology, and medical image analysis. In addition, he also has a track of exploring advanced applications of large language models for assisting computational biology and drug discovery. Within his 27 years of experience, he has published 39 papers in various conferences and journals, 4 patents and 1 book chapter in the areas of artificial intelligence and machine learning-related biomedical research.|
+| ![Gayathri Mohan](./Gaya.png) | **Gayathri Mohan <br> AstraZeneca** | Gayathri is a Lead Computer Vision Scientist at Astrazeneca. With her background in the field of healthcare, she hopes to automate the various processes in this field such as automatically recognizing patients in the ER, image-guided surgeries, automatic disease diagnosis which will ultimately lead to a better healthcare service and a larger ratio of good outcomes. |
+| ![Anne Carpenter](./Anne.png) | **Anne Carpenter <br> Broad Institute <br> SyzOnc** | Anne E. Carpenter is a computational biologist and the director of the Imaging Platform at the Broad Institute of MIT and Harvard. She is best known for her pioneering work in developing CellProfiler, an open-source software tool designed for high-throughput image analysis, which has become widely used in biological research. Her work has significantly contributed to advancing image-based screening in biology and medicine, particularly in the field of drug discovery and genomics.| 
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+[back](./)

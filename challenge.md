@@ -28,8 +28,10 @@ Submission deadline: March 15 '25 07:59 AM UTC
 
 Decisions to participants: May 1 '25 07:59 AM UT
 
-## Challenge Organizers: 
+## Challenge organizers:
 
-Adriana Borowa, Ana Sanchez-Fernandez
+| ![Adriana Borowa](./Ada.png) | **Adriana Borowa <br> Ardigen SA ** | 
+|:-----------------:|:-----------------:|
+| ![Ana Sanchez-Fernandez](./Ana.png) | **Ana Sanchez-Fernandez <br> Johannes Kepler University Linz <br> Janssen Pharmaceutica** | 
 
 [back](./)
