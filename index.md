@@ -112,7 +112,7 @@ TBD
 
 | ![Dawid Rymarczyk](./Dawid.png) | ![Ilknur Icke](./Ilknur.png) | ![Chao-hui Huang](./Chao.png) | ![Gayathri Mohan](./Gaya.png) | ![Anne Carpenter](./Anne.png) |
 |:--:| 
-| *Dawid Rymarczyk* Ardigen SA / Jagiellonian University | *Ilknur Icke* | *Chao-hui Huang* | *Gayathri Mohan* | *Anne Carpenter* |
+| *Dawid Rymarczyk* <br> Ardigen SA <br> Jagiellonian University | *Ilknur Icke* <br> Bayer | *Chao-hui Huang* <br> Pfizer | *Gayathri Mohan* <br> AstraZeneca | *Anne Carpenter* <br> Broad Institute <br> SyzOnc |
 
 
 ### Challenge comitee:
