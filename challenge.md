@@ -42,7 +42,9 @@ Inter and intra cell line matching:
 
 The evaluation system will be opened on February 15th 2024.
 
+### Outcomes
 
+Teams that will obtain the best results may be invited to collaborate on a joint publication. 
 
 ### Timeline:
 
