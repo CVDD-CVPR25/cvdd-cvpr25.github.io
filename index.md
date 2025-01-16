@@ -80,7 +80,7 @@ More info can be found at: [Challenge](./challenge.html)
 |:-----------------:|:-----------------:|
 | ![Ilknur Icke](./Ilknur.png) | **Ilknur Icke <br> Novo Nordisk** | 
 | ![Chao-hui Huang](./Chao.png) | **Chao-hui Huang <br> Pfizer** | 
-| ![Gayathri Mohan](./Gaya.png) | **Gayathri Mohan <br> AstraZeneca** | 
+| ![Gayathri Mohan](./Gaya.png) | **Gayathri Mohankumar <br> AstraZeneca** | 
 | ![Anne Carpenter](./Anne.png) | **Anne Carpenter <br> Broad Institute <br> SyzOnc** |
 
 
