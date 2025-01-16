@@ -1,6 +1,6 @@
 ---
 layout: default
-title: challenge
+title: Computer Vision for Drug Discovery <br> Where Are We and What is Beyond?
 description: Cell line transferability challenge 
 ---
 
