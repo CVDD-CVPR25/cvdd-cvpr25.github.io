@@ -19,7 +19,12 @@ This workshop is aligned with CVPR's growing emphasis on "AI for social good," o
 
 ## Speakers
 
-TBD
+| ![Shantanu](./shantanu.png) | **Shantanu Singh <br> Broad Institute** | 
+|:-----------------:|:-----------------:|
+| ![Christina Leslie](./christina.png) | **Christina S Leslie <br> Memorial Sloan Kettering  <br>  Cancer Center** | 
+| ![Juan Caicedo](./juan.png) | **Juan C Caicedo <br> Morgridge Institute for Research** | 
+| ![Jean Fan](./Jean.png) | **Jean Fan <br> Johns Hopkins <br> Biomedical Engineering** | 
+| TBD | **More to come!** |
 
 ## Call for papers:
 Two tracks are available: featuring papers for workshop proceedings and posters from recent publications in top conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, and AAAI, as well as prominent journals such as Nature, Science, and Nature Methods.
