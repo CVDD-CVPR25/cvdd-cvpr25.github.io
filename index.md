@@ -24,6 +24,7 @@ This workshop is aligned with CVPR's growing emphasis on "AI for social good," o
 | ![Christina Leslie](./christina.png) | **Christina S Leslie <br> Memorial Sloan Kettering  <br>  Cancer Center** | 
 | ![Juan Caicedo](./juan.png) | **Juan C Caicedo <br> Morgridge Institute for Research** | 
 | ![Jean Fan](./Jean.png) | **Jean Fan <br> Johns Hopkins <br> Biomedical Engineering** | 
+| ![Patrick Schwab](./Patrick.png) | **Patrick Schwab <br> GSK** | 
 | TBD | **More to come!** |
 
 ## Call for papers:
