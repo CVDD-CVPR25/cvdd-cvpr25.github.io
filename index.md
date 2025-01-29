@@ -94,6 +94,6 @@ More info can be found at: [Challenge](./challenge.html)
 
 | ![Adriana Borowa](./Ada.png) | **Adriana Borowa <br> Ardigen SA** | 
 |:-----------------:|:-----------------:|
-| ![Ana Sanchez-Fernandez](./Ana.png) | **Ana Sanchez-Fernandez <br> Johannes Kepler University Linz <br> Janssen Pharmaceutica** | 
+| ![Ana Sanchez-Fernandez](./Ana.png) | **Ana Sanchez-Fernandez <br> Johannes Kepler University Linz** | 
 
  
