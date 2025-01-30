@@ -13,7 +13,7 @@ The submission must go through: TBD
 
 ### Dates
 
-Paper Submission Deadline: March 1 '25 07:59 AM UTC
+Paper Submission Deadline: March 17 '25 07:59 AM UTC
 
 Notification of Acceptance: April 1 '25 07:59 AM UTC
 
