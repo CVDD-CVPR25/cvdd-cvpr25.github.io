@@ -50,9 +50,9 @@ Teams that will obtain the best results may be invited to collaborate on a joint
 
 Start (call for participation): January 20 '25 07:59 AM UTC
 
-Registration deadline: February 15 '25 07:59 AM UTC
+Registration deadline: February 22 '25 07:59 AM UTC
 
-Submission deadline: March 15 '25 07:59 AM UTC
+Submission deadline: April 1 '25 07:59 AM UTC
 
 Decisions to participants: May 1 '25 07:59 AM UT
 
