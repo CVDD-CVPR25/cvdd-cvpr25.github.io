@@ -27,9 +27,23 @@ The input file should be a csv file and contain a column called ID, which matche
 
 ### Files
 metadata_test.csv - Identifier of the samples that should be submitted, along with their corresponfing plates and well positions
+
 sample_submission.csv - A sample submission file in the correct format
 
 Features should not have any missing or infinite values. 
+
+#### Columns
+
+ID - Sample identifier, that corresponds with the plate and well in metadata_test.csv
+
+feature_1 - First feature
+
+…
+
+feature_N - Last feature
+
+#### References
+Chandrasekaran, S.N., Cimini, B.A., Goodale, A. et al. Three million images and morphological profiles of cells treated with matched chemical and genetic perturbations. Nat Methods 21, 1114–1121 (2024). https://doi.org/10.1038/s41592-024-02241-6
 
 ### Evaluation
 
