@@ -29,8 +29,6 @@ The input file should be a csv file and contain a column called ID, which matche
 metadata_test.csv - Identifier of the samples that should be submitted, along with their corresponfing plates and well positions
 sample_submission.csv - A sample submission file in the correct format
 
-![challenge_img1](./challenge_img1.png)
-
 Features should not have any missing or infinite values. 
 
 ### Evaluation
