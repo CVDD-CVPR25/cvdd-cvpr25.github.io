@@ -19,12 +19,15 @@ Learning representations of molecular perturbations in cells is a crucial task i
 The competition will use the publicly available 2020_11_04_CPJUMP1 dataset, see [description](https://github.com/jump-cellpainting/2024_Chandrasekaran_NatureMethods). The dataset contains images generated using chemical and genetic perturbation and 2 cell lines: U2OS and A549 in multiple replicates. Images and corresponding CellProfiler features are available. 
 
 ### Task
+Develop a method for transfer of information between cell lines using either CellProfiler features or raw images (Deep Learning method). The representations will be evaluated in a set of 24 plates that contain compound-perturbed cells.
 
-Develop a method for transfer of information between cell lines using either *CellProfiler* features or raw images (Deep Learning method). Provide an image representation for each compound-containing well in 24 compound plates. The input file should be a csv file and contain following information:
-Metadata_broad_sample, e.g. BRD-A86665761-001-01-1. Compound identifier from the dataset.
-Metadata_Plate, e.g. BR00117012. Plate identifier.
-Metadata_Well, e.g. A01. Well identifier.
-feature_{i} from 0 to the length of your feature vector. One feature value per column.
+In the file metadata_test.csv, one can find the column ID, which identifies each sample for which participants should submit representations and their corresponding plate and well.
+
+The input file should be a csv file and contain a column called ID, which matches the plate and the well from the metadata_test.csv file, and a set of float columns that will be the features. The set of feature columns can have any length and will be used in the given order. There should be only one feature value per column. Features should not have any missing or infinite values.
+
+### Files
+metadata_test.csv - Identifier of the samples that should be submitted, along with their corresponfing plates and well positions
+sample_submission.csv - A sample submission file in the correct format
 
 ![challenge_img1](./challenge_img1.png)
 
