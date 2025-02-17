@@ -76,7 +76,7 @@ In this challenge, you will develop machine learning models for learning represe
 
 Learning representations of molecular perturbations in cells is a crucial task in drug discovery. Having robust representations that capture how certain perturbations affect cells would allow us to rapidly find compounds that present similar effects. However, experimental and other types of variability unrelated to the perturbation’s biological effect make it a challenging task. Therefore, we present a compound classification task where models will be evaluated both in unseen plates and unseen cell lines. 
 
-More info can be found at: [Challenge](./challenge.html)
+More info can be found at: [Challenge](./challenge.html) and [kaggle](https://www.kaggle.com/competitions/cell-line-transferability-challenge-cvdd)
 
 ## Organizing team:
 
