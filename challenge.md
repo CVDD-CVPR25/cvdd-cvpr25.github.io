@@ -10,7 +10,7 @@ description: Cell line transferability challenge
 
 In this challenge, you will develop machine learning models for learning representations of molecular perturbations in cellular systems using microscopy imaging data.
 
-[kaggle](https://www.kaggle.com/competitions/cell-line-transferability-challenge-cvdd)
+More details on [kaggle](https://www.kaggle.com/competitions/cell-line-transferability-challenge-cvdd)
 
 ### Description
 
