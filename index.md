@@ -32,7 +32,7 @@ Two tracks are available: featuring papers for workshop proceedings and posters 
 
 The papers must follow the CVPR paper template. 
 
-The submission must go through: TBD
+The submission must go through: [openreview](https://openreview.net/group?id=thecvf.com/CVPR/2025/Workshop/CVDD&referrer=%5BHomepage%5D(%2F))
 
 ### Topics
 
