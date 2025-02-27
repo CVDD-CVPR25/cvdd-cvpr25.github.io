@@ -25,7 +25,8 @@ This workshop is aligned with CVPR's growing emphasis on "AI for social good," o
 | ![Juan Caicedo](./juan.png) | **Juan C Caicedo <br> Morgridge Institute for Research** | 
 | ![Jean Fan](./Jean.png) | **Jean Fan <br> Johns Hopkins <br> Biomedical Engineering** | 
 | ![Patrick Schwab](./Patrick.png) | **Patrick Schwab <br> GSK** | 
-| TBD | **More to come!** |
+| ![Peter Horvath](./Peter.png) | **Peter Horvath <br> Szeged, Helsinki, <br> ETH Zurich, INRIA, <br> Sophia Antipolis** |
+| ![Daniel Racoceanu](./Daniel.png) | **Daniel Racoceanu <br> Sorbonne University** |
 
 ## Call for papers:
 Two tracks are available: featuring papers for workshop proceedings and posters from recent publications in top conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, and AAAI, as well as prominent journals such as Nature, Science, and Nature Methods.
