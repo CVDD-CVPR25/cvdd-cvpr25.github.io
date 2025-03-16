@@ -57,7 +57,7 @@ The submission must go through: [openreview](https://openreview.net/group?id=the
 
 ### Dates
 
-Paper Submission Deadline: March 17 '25 07:59 AM UTC
+Paper Submission Deadline: March 24 '25 07:59 AM UTC
 
 Notification of Acceptance: April 1 '25 07:59 AM UTC
 
