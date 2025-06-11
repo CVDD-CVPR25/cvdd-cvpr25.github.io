@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-| [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/Dates) | [Call for papers](./call.html) | [Speakers](./speakers.html) | [Challenge](./challenge.html) | [Organizers](organizers.html) |
+| [CVPR 2025](https://cvpr.thecvf.com/Conferences/2025/Dates) | [Agenda](./agenda.html) | [Call for papers](./call.html) | [Speakers](./speakers.html) | [Challenge](./challenge.html) | [Organizers](organizers.html) |
 
 This page is for CVPR 2025 workshops on Computer Vision for Drug Discovery: Where Are We and What is Beyond?
 
@@ -27,6 +27,8 @@ This workshop is aligned with CVPR's growing emphasis on "AI for social good," o
 | ![Patrick Schwab](./Patrick.png) | **Patrick Schwab <br> GSK** | 
 | ![Peter Horvath](./Peter.png) | **Peter Horvath <br> Szeged, Helsinki, <br> ETH Zurich, INRIA, <br> Sophia Antipolis** |
 | ![Daniel Racoceanu](./Daniel.png) | **Daniel Racoceanu <br> Sorbonne University** |
+| ![Gaya](./Gaya.png) | **Gayathri Mohankumar <br> AstraZeneca** |  
+| ![Nicolas](./Nicolas.png) | **Nicolas Brieu <br> AstraZeneca** |  
 
 ## Call for papers:
 Two tracks are available: featuring papers for workshop proceedings and posters from recent publications in top conferences like CVPR, ICCV, ECCV, NeurIPS, ICLR, and AAAI, as well as prominent journals such as Nature, Science, and Nature Methods.

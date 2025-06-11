@@ -13,6 +13,9 @@ description: Speakers at CVDD
 | ![Patrick Schwab](./Patrick.png) | **Patrick Schwab <br> GSK** |  TBD |
 | ![Peter Horvath](./Peter.png) | **Peter Horvath <br> Szeged, Helsinki, <br> ETH Zurich, INRIA, <br> Sophia Antipolis** |   TBD |
 | ![Daniel Racoceanu](./Daniel.png) | **Daniel Racoceanu <br> Sorbonne University** |  TBD |
+| ![Gaya](./Gaya.png) | **Gayathri Mohankumar <br> AstraZeneca** |  TBD |
+| ![Nicolas](./Nicolas.png) | **Nicolas Brieu <br> AstraZeneca** |  TBD |
+
 
 [back](./)
 
