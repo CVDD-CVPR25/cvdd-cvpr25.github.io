@@ -4,9 +4,9 @@ title: Agenda
 description: CVDD workshop 
 ---
 
-## Agenda:
 ### Workshop room: 103C
 ### Poster session: poster board \#170 - \#181
+
 
 | Time |  Topic | 
 |:-----------------:|:-----------------:|
