@@ -7,6 +7,7 @@ description: CVDD workshop
 ## Agenda:
 ### Workshop room: 103C
 ### Poster session: poster board \#170 - \#181
+
 | 9:30 am - 9:40 am |  Opening remarks |
 | 9:40 am – 10:10 am |	Shantanu Singh |
 | 10:10 am – 10:30 am |	 Challenge winners |
