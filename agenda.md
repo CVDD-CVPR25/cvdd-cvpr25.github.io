@@ -22,7 +22,7 @@ description: CVDD workshop
 | 2:00 pm – 2:30 pm |  **Christina Leslie** | Discrete representation learning for imaging-based spatial transcriptomics |
 | 2:30 pm - 3:00 pm |  **Jean Fan** | Multi-sample comparative spatial omics data analysis |
 | 3:00 pm – 4:00 pm | |  Coffee Break / Poster session 
-| 4:00 pm – 4:30 pm |  **Peter Horvath** | TBD |
+| 4:00 pm – 4:30 pm |  **Peter Horvath** | Life beyond the pixels - single-cell analysis |
 | 4:30 pm – 5:00 pm |  | Remarks and Prizes | 
 
 
